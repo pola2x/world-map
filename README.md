@@ -12,10 +12,7 @@ This is a simple web application that displays an interactive world map. Users c
 
 يمكنك مشاهدة نسخة مباشرة من المشروع تعمل على الرابط التالي:
 
-**[https://<your-github-username>.github.io/<your-repo-name>/](https://<your-github-username>.github.io/<your-repo-name>/)**
-
-**ملاحظة:** قم باستبدال `<your-github-username>` باسم المستخدم الخاص بك على GitHub و `<your-repo-name>` باسم المستودع (Repository) الخاص بالمشروع.
-
+**(https://pola2x.github.io/world-map/)**
 ---
 
 ### 🌟 المميزات | Features
@@ -34,11 +31,11 @@ This is a simple web application that displays an interactive world map. Users c
 
 1.  **قم بنسخ المستودع (Clone the repository):**
     ```bash
-    git clone [https://github.com/](https://github.com/)<your-github-username>/<your-repo-name>.git
+    git clone [https://github.com/pola2x/world-map.git]
     ```
 2.  **انتقل إلى مجلد المشروع:**
     ```bash
-    cd <your-repo-name>
+    cd <world-map>
     ```
 3.  **افتح ملف `index.html`:**
     افتح ملف `index.html` مباشرة في متصفح الويب المفضل لديك (مثل Google Chrome أو Firefox).
